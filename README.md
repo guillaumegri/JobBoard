@@ -9,7 +9,7 @@ Ce projet est une application interactive développée avec **Streamlit** permet
   - Recherche par compétence (ex. : Python, JavaScript).
 - **Tableau interactif** : Visualisation claire des résultats avec possibilité d'exploration.
 - **Liens directs vers les offres** : Accédez aux annonces complètes directement depuis l'application.
-- 
+
 ### Supplément
 - **Recherche d'offres sur différents sites** : Ajout de nouvelles API.
 - **Ajout d'un filtre** : Ajout d'un filtre de recherche par localisation.
