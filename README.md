@@ -47,7 +47,7 @@ streamlit run dashboard.py
 - Utilisez les filtres disponibles dans la barre latérale pour explorer les offres.
 
 ## 📋 To-Do
-- [ ] Intégration de l'API de Remote OK
+- [X] Intégration de l'API de Remote OK
 - [ ] Filtrage dynamique
 - [ ] Amélioration de l'affichage
 - [ ] Ajouter une intégration avec d'autres API (Adzuna, Jooble, etc.).
