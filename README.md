@@ -5,7 +5,7 @@ Ce projet est une application interactive développée avec **Streamlit** permet
 ### Base
 - **Recherche d'offres en télétravail** : Affiche les offres disponibles via l'API Remote OK.
 - **Filtres dynamiques** : 
-  - Recherche par entreprise.
+  - Recherche par poste.
   - Recherche par compétence (ex. : Python, JavaScript).
 - **Tableau interactif** : Visualisation claire des résultats avec possibilité d'exploration.
 - **Liens directs vers les offres** : Accédez aux annonces complètes directement depuis l'application.
