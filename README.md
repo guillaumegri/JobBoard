@@ -48,8 +48,8 @@ streamlit run dashboard.py
 
 ## 📋 To-Do
 - [X] Intégration de l'API de Remote OK
-- [ ] Filtrage dynamique
-- [ ] Amélioration de l'affichage
+- [X] Filtrage dynamique
+- [X] Amélioration de l'affichage
 - [ ] Ajouter une intégration avec d'autres API (Adzuna, Jooble, etc.).
 - [ ] Support pour la recherche par localisation.
 - [ ] Affichage de statistiques (ex. : histogramme des offres par compétence).
